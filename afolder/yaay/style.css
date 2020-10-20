@@ -1,0 +1,31 @@
+.container{
+  width:560px;
+  height:100vh;
+  background-color : #fff;
+  margin:0 auto ;
+ 
+}
+
+
+section{
+  position :fixed ;
+  text-align : center;
+  width : 560px ; 
+  background-color:#fff;
+    top:50px;
+
+}
+
+h4{
+  font-size:2rem;
+  font-weight :600;
+  background : skyblue;
+}
+
+p{
+  font-size:2rem;
+  background : pink ;       border: 4px solid blue;
+
+
+
+}
